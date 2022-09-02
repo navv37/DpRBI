@@ -1,2 +1,2 @@
-# Dual-pol-radar-built-up-index-DpRBI- version
+# Dual-pol-radar-built-up-index (DpRBI)
 # Author - Abhinav
